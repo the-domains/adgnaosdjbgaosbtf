@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eamon's English Blog]]></title>
+        <description><![CDATA[Eamon's English Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 21:32:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Choose one of the poems and discuss how the poet addresses the topic of "coming of age."</p>]]></description>
+            <link>undefinedd2f004c5-1cce-4252-924c-5bd278e4ae42/index.html</link>
+            <guid isPermaLink="false">d2f004c5-1cce-4252-924c-5bd278e4ae42</guid>
+            <pubDate>Fri, 26 Feb 2016 21:32:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
