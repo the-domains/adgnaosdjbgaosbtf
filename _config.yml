@@ -1,7 +1,7 @@
 name: "Eamon's English Blog"
 favicon: null
-layout_spectrum: 0.8102135476656258
-typography_spectrum: 0.03207075851969421
+layout_spectrum: 0.52363
+typography_spectrum: 0.13904
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.0348227561917156
-  lightness: 0.2849810551851988
-  saturation: 0.3239748647902161
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0
   rhythmicContrast: 0.06749134114943445
 purpose: []
