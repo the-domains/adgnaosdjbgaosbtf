@@ -1,0 +1,28 @@
+name: "Eamon's English Blog"
+favicon: null
+layout_spectrum: 0.8102135476656258
+typography_spectrum: 0.03207075851969421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0348227561917156
+  lightness: 0.2849810551851988
+  saturation: 0.3239748647902161
+  rhythmicContrast: 0.06749134114943445
+purpose: []
