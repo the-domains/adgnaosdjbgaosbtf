@@ -1,6 +1,6 @@
 name: "Eamon's English Blog"
 favicon: null
-layout_spectrum: 0.22761
+layout_spectrum: 0
 typography_spectrum: 0.15148
 title: "Eamon's English Blog"
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0
-  lightness: 0.9375
+  lightness: 0.75
   saturation: 0
   rhythmicContrast: 1
 purpose: []
